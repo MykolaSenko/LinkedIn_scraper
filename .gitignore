@@ -2,3 +2,4 @@ __pycache__/
 
 # virtual environment
 x_env/
+linkedin_credentials.json
